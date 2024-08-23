@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText="KAMU LUCU BANGET CIAAA!!";
+    document.getElementById("output-value").innerText="HAI CIA LUCU🐷🐷";
   }
