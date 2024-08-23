@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText="I LOVE U ❤";
+    document.getElementById("output-value").innerText="PLEASE DONT BE IN LOVE WITH SOMEONE ELSE! ";
   }
