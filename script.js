@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText="BWAAA!! ";
+    document.getElementById("output-value").innerText=" BEWAN DEKKKK!!😏";
   }
