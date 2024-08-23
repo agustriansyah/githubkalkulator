@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText="HAI CIA LUCU🐷🐷";
+    document.getElementById("output-value").innerText="I LOVE U ❤❤";
   }
